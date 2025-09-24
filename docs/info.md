@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Gates check if a Pair (1/2, 3/4, ...) is ON. Then the logic filters out, only lighting up the Display with "0" if there is only one pair is on.
 
 ## How to test
 
-Explain how to use your project
+The Switches are flipped manually in the Wowki Online Project, it should work like that on the chip, too
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The 7 Segment Display from the Template is used
